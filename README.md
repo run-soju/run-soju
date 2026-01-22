@@ -1,4 +1,4 @@
-![](https://github.com/run-soju/elective-laboratories/blob/main/laboratory-2/profile%20banner.png)
+![](https://github.com/run-soju/elective-laboratories/blob/main/laboratory-2/logo.png) ![](https://github.com/run-soju/elective-laboratories/blob/main/laboratory-2/profile%20banner.png)
 # 💫 About Me:
 🔭 I’m currently working on a tree<br>👯 I’m looking to collaborate on a game<br>🤝 I’m looking for help with a game<br>🌱 I’m currently learning<br>💬 Ask me about silver<br>⚡ Fun fact: I'm alive and kicking
 
@@ -15,5 +15,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=run-soju&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github.com/run-soju/elective-laboratories/blob/main/laboratory-2/logo.png)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
