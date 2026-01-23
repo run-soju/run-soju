@@ -1,6 +1,6 @@
 ![](https://github.com/run-soju/elective-laboratories/blob/main/laboratory-2/branding/banner/profile%20banner.png)
 # 💫 About Me:
-🔭 I’m currently working on a tree<br>👯 I’m looking to collaborate on coconut<br>🤝 I’m looking for help with fertilizer<br>🌱 I’m currently learning bonsai<br>💬 Ask me about silver<br>⚡ Fun fact: I am crab
+🔭 I’m currently working on a tree<br>👯 I’m looking to collaborate on coconut<br>🤝 I’m looking for help with fertilizer<br>🌱 I’m currently learning bonsai<br>💬 Do Not Ask me about soju<br>⚡ Fun fact: I am crab
 
 
 # 💻 Tech Stack:
