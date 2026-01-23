@@ -16,4 +16,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=run-soju&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github.com/run-soju/elective-laboratories/blob/main/laboratory-2/branding/logo/logo.png)
+![](https://github.com/run-soju/run-soju/blob/main/documentation/Lab%204%20Mini%20project%20documentation.pdf)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
